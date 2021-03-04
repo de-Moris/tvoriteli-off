@@ -44,11 +44,11 @@ sections:
     grid_items:
       - title: Что дальше?
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          У вас появляется возможность воспользоваться обновлённой и более
+          совершенной во всех отношениях версией программы, построенной по
+          результатам новейших исследований, воплотившей новые уникальные
+          решения и алгоритмы.
         content_align: left
       - title: What about accommodation for attendees?
         title_align: left
