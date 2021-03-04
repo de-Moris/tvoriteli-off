@@ -15,7 +15,19 @@
         "tertiary_nav_links": [],
         "has_social": false,
         "social_links": [],
-        "links": [],
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ],
         "type": "footer",
         "content": "Если вы не имеете такой возможности, напишите нам на электронный адрес: perfecterra2021@gmail.com"
     }
