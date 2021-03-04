@@ -83,10 +83,6 @@ seo:
     - name: 'og:description'
       value: The preview of the Event theme
       keyName: property
-    - name: 'og:image'
-      value: images/feature-3.jpg
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
