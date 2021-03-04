@@ -85,7 +85,7 @@ sections:
     background_image: images/bg-machine.jpg
     background_image_repeat: no-repeat
     background_image_size: auto
-    background_image_opacity: 1
+    background_image_opacity: 20
     background_image_position: center center
 seo:
   title: Stackbit Event Theme
