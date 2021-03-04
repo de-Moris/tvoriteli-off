@@ -52,11 +52,11 @@ sections:
         content_align: left
       - title: What about accommodation for attendees?
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          Для того, чтобы воспользоваться этой возможностью и перейти на
+          программу «INNEIRO», обратитесь к тому, у кого вы купили программу
+
+          «ТВОРИТЕЛИ». 
         content_align: left
     grid_cols: two
     grid_gap_horiz: medium
