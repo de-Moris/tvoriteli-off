@@ -31,6 +31,7 @@
         "has_social": false,
         "social_links": [],
         "links": [],
-        "type": "footer"
+        "type": "footer",
+        "content": "Если вы не имеете такой возможности, напишите нам на электронный адрес: perfecterra2021@gmail.com"
     }
 }
