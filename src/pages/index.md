@@ -87,7 +87,7 @@ sections:
     padding_bottom: large
     background_color: none
     background_image: images/bg-machine.jpg
-    background_image_repeat: repeat
+    background_image_repeat: no-repeat
     background_image_size: contain
     background_image_opacity: 15
     background_image_position: center center
