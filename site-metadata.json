@@ -28,7 +28,7 @@
         "has_tertiary_nav": false,
         "tertiary_nav_title": "lorem-ipsum",
         "tertiary_nav_links": [],
-        "has_social": false,
+        "has_social": true,
         "social_links": [],
         "links": [],
         "type": "footer",
