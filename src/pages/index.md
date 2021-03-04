@@ -1,7 +1,7 @@
 ---
 sections:
   - type: hero_section
-    title: Проект ТВОРИТЕЛИ завершен
+    title: Проект завершен
     content: |
       **10 марта, 2021**
     actions: []
