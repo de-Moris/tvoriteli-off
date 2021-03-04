@@ -50,7 +50,7 @@ sections:
           результатам новейших исследований, воплотившей новые уникальные
           решения и алгоритмы.
         content_align: left
-      - title: What about accommodation for attendees?
+      - title: Как перейти на новую платформу?
         title_align: left
         content: >
           Для того, чтобы воспользоваться этой возможностью и перейти на
