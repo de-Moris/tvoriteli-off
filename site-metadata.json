@@ -23,7 +23,7 @@
             {
                 "label": "Tickets",
                 "url": "thank-you",
-                "style": "link"
+                "style": "secondary"
             }
         ],
         "has_anncmnt": false
