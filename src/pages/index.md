@@ -1,7 +1,7 @@
 ---
 sections:
   - type: hero_section
-    title: П
+    title: Проект ТВОРИТЕЛИ
     subtitle: Conference for Creative People
     content: '**April 14 - 16, 2021**'
     actions: []
