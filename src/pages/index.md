@@ -4,10 +4,7 @@ sections:
     title: Inspire. Create. Build.
     subtitle: Conference for Creative People
     content: '**April 14 - 16, 2021**'
-    actions:
-      - label: Get Your Ticket Today!
-        url: /about
-        style: primary
+    actions: []
     align: center
     padding_top: large
     padding_bottom: large
