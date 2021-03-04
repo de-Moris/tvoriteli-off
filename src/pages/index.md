@@ -14,7 +14,7 @@ sections:
     background_image_size: cover
     subtitle: полное отключение ресурсов проекта
   - type: features_section
-    title: What you’ll experience
+    title: Уважаемые пользователи
     features:
       - content: >-
           Event is a responsive theme for online events, meetups, conferences
