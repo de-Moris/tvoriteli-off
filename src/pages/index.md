@@ -23,7 +23,7 @@ sections:
           актуальную версию программы под международным названием
         align: center
         actions:
-          - label: ' «INNEIRO»'
+          - label: ' «INNEIRO'
             url: '#'
             style: primary
             has_icon: false
