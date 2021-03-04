@@ -6,7 +6,6 @@
     "base_font": "sans-serif",
     "header": {
         "title": "Event",
-        "logo_alt": "Event logo",
         "has_primary_nav": false,
         "has_secondary_nav": true,
         "secondary_nav_links": [
