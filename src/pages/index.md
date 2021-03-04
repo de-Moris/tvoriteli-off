@@ -40,7 +40,11 @@ sections:
     background_color: none
   - type: grid_section
     title: Frequently Asked Questions
-    subtitle: Our vision
+    subtitle: >-
+      У вас появляется возможность воспользоваться обновлённой и более
+      совершенной во всех отношениях версией программы, построенной по
+      результатам новейших исследований, воплотившей новые уникальные решения и
+      алгоритмы. 
     grid_items:
       - title: How can I get to the venue?
         title_align: left
