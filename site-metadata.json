@@ -28,13 +28,6 @@
         ],
         "has_anncmnt": false
     },
-    "footer": {
-        "has_primary_nav": false,
-        "has_secondary_nav": false,
-        "has_tertiary_nav": false,
-        "has_social": false,
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=event&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
-    },
     "title": "Проект ТВОРИТЕЛИ завершен",
     "domain": "https://tvoriteli-off-0af20.netlify.app"
 }
