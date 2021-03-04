@@ -24,17 +24,6 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
-  - type: cta_section
-    title: Current price is only $49. The price will increase soon!
-    actions: []
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    background_image: images/cta-background.png
-    background_image_opacity: 50
   - type: grid_section
     title: Frequently Asked Questions
     subtitle: Our vision
