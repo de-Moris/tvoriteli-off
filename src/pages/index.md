@@ -166,18 +166,6 @@ sections:
     padding_bottom: large
     background_color: secondary
   - type: grid_section
-    title: Pricing
-    subtitle: Pass for the event
-    grid_items: []
-    grid_cols: three
-    grid_gap_horiz: small
-    grid_gap_vert: small
-    enable_cards: true
-    padding_top: small
-    padding_bottom: medium
-    background_color: primary
-    background_image_opacity: 10
-  - type: grid_section
     title: Frequently Asked Questions
     subtitle: Our vision
     grid_items:
