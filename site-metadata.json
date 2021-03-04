@@ -19,7 +19,7 @@
             {
                 "label": "perfecterra2021@gmail.com",
                 "url": "#mailto:perfecterra2021@gmail.com",
-                "style": "primary",
+                "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
                 "icon_position": "right",
