@@ -13,6 +13,7 @@ sections:
     background_image_opacity: 15
     background_image_size: cover
     subtitle: полное отключение ресурсов проекта
+    has_border: true
   - type: features_section
     title: Уважаемые пользователи
     features:
