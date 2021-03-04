@@ -2,7 +2,8 @@
 sections:
   - type: hero_section
     title: Проект ТВОРИТЕЛИ завершен
-    content: '**April 14 - 16, 2021**'
+    content: |
+      **10 марта, 2021**
     actions: []
     align: center
     padding_top: large
