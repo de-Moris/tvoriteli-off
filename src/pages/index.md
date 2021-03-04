@@ -42,7 +42,7 @@ sections:
     title: Frequently Asked Questions
     subtitle: остались вопросы?
     grid_items:
-      - title: How can I get to the venue?
+      - title: Что дальше?
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
