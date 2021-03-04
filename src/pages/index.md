@@ -13,15 +13,7 @@ sections:
     background_image_opacity: 15
     background_image_size: cover
   - type: grid_section
-    grid_items:
-      - title: 20+ Speakers
-        title_align: left
-        content: Best in the field speakers and instructors.
-        content_align: left
-        image: images/20-speakers.svg
-        image_alt: Section item 3 icon
-        image_position: left
-        image_width: twenty-five
+    grid_items: []
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
