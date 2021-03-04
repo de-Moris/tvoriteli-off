@@ -13,6 +13,7 @@ sections:
     background_image_opacity: 15
     background_image_size: cover
     subtitle: полное отключение ресурсов проекта
+    image: images/названиефон р.jpg
   - type: features_section
     title: What you’ll experience
     features:
