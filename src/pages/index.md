@@ -72,7 +72,7 @@ sections:
     background_image_position: center center
 seo:
   title: Tvoriteli
-  description: The preview of the Event theme
+  description: The programm finished
   extra:
     - name: 'og:type'
       value: website
