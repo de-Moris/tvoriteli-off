@@ -5,7 +5,6 @@
     "mode": "light",
     "base_font": "sans-serif",
     "header": {
-        "title": "Проект ТВОРИТЕЛИ завершен",
         "has_primary_nav": false,
         "has_secondary_nav": true,
         "secondary_nav_links": [
