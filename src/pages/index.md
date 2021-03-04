@@ -132,15 +132,6 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: none
-  - type: features_section
-    title: Watch Favorite Talks From Past Events
-    subtitle: '2020'
-    features: []
-    feature_padding_vert: large
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
   - type: grid_section
     title: Frequently Asked Questions
     subtitle: Our vision
