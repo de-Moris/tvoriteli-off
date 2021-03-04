@@ -24,7 +24,7 @@ sections:
         align: center
         actions:
           - label: INNEIRO
-            url: '#'
+            url: 'https://inneiro.com/'
             style: primary
             has_icon: false
             icon: arrow-left
