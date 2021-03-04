@@ -61,17 +61,12 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Если вы не имеете такой возможности, напишите нам на электронный
+          адрес:
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          perfecterra2021@gmail.com
         content_align: left
         actions: []
         actions_align: left
