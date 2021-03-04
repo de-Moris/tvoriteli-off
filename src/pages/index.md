@@ -39,7 +39,6 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: grid_section
-    title: Frequently Asked Questions
     subtitle: остались вопросы?
     grid_items:
       - title: Что дальше?
