@@ -26,13 +26,7 @@ sections:
     background_color: none
   - type: cta_section
     title: Current price is only $49. The price will increase soon!
-    actions:
-      - label: Get tickets
-        url: /thank-you
-        style: primary
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
+    actions: []
     actions_position: right
     actions_width: fourty
     align: left
