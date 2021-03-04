@@ -90,6 +90,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 15
+    background_image_position: center center
 seo:
   title: Stackbit Event Theme
   description: The preview of the Event theme
