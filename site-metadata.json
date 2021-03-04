@@ -9,7 +9,19 @@
     "footer": {
         "has_primary_nav": true,
         "primary_nav_title": "Если вы не имеете такой возможности, напишите нам на электронный адрес: perfecterra2021@gmail.com",
-        "primary_nav_links": [],
+        "primary_nav_links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ],
         "has_secondary_nav": false,
         "secondary_nav_title": "lorem-ipsum",
         "secondary_nav_links": [],
