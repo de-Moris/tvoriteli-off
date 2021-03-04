@@ -169,25 +169,6 @@ sections:
     title: Pricing
     subtitle: Pass for the event
     grid_items:
-      - title: Base Camp Ticket
-        subtitle: April 14
-        title_align: left
-        content: |-
-          ---
-          ### Free
-
-          Watch only access for Base Camp track
-
-          * Conference Stickers
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-        content_align: left
-        actions:
-          - label: Registration
-            url: /thank-you
-            style: primary
-        actions_align: left
-        actions_width: full-width
       - title: Summit ticket
         subtitle: April 14 - 15
         title_align: left
