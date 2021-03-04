@@ -169,26 +169,6 @@ sections:
     title: Pricing
     subtitle: Pass for the event
     grid_items:
-      - title: Summit ticket
-        subtitle: April 14 - 15
-        title_align: left
-        content: |-
-          ---
-          ### $49
-
-          Watch Only access to Summit & Base Camp Tracks
-
-          * Conference Stickers
-          * Technology discussion rooms
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-        content_align: left
-        actions:
-          - label: Registration
-            url: /thank-you
-            style: primary
-        actions_align: left
-        actions_width: full-width
       - title: Full Ticket
         subtitle: April 14 - 16
         title_align: left
