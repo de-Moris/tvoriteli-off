@@ -4,28 +4,6 @@
     "palette": "red",
     "mode": "light",
     "base_font": "sans-serif",
-    "header": {
-        "has_primary_nav": false,
-        "has_secondary_nav": true,
-        "secondary_nav_links": [
-            {
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Sponsorship",
-                "url": "/sponsorship",
-                "style": "link"
-            },
-            {
-                "label": "Tickets",
-                "url": "thank-you",
-                "style": "secondary"
-            }
-        ],
-        "has_anncmnt": false
-    },
     "title": "Проект ТВОРИТЕЛИ завершен",
     "domain": "https://tvoriteli-off-0af20.netlify.app"
 }
