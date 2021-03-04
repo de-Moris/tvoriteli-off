@@ -85,7 +85,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: secondary
+    background_color: none
     background_image: images/bg-machine.jpg
     background_image_repeat: repeat
     background_image_size: auto
