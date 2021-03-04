@@ -72,7 +72,7 @@ sections:
     background_image_position: center center
 seo:
   title: Tvoriteli
-  description: The programm finished
+  description: This phase of the programme is being completed
   extra:
     - name: 'og:type'
       value: website
