@@ -11,6 +11,7 @@ sections:
     background_image: images/hero-background.jpg
     background_image_opacity: 15
     background_image_size: cover
+    subtitle: полное отключение ресурсов проекта
   - type: features_section
     title: What you’ll experience
     features:
