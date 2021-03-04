@@ -493,4 +493,5 @@ seo:
       value: images/feature-3.jpg
       relativeUrl: true
 template: advanced
+title: Проект ТВОРИТЕЛИ завершен
 ---
