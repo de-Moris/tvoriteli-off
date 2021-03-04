@@ -69,7 +69,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-    background_image: images/faq-background.svg
+    background_image: images/bg-machine.jpg
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 15
