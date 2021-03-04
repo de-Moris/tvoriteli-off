@@ -71,7 +71,7 @@ sections:
     background_image_opacity: 15
     background_image_position: center center
 seo:
-  title: Stackbit Event Theme
+  title: Tvoriteli
   description: The preview of the Event theme
   extra:
     - name: 'og:type'
