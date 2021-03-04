@@ -7,8 +7,7 @@
     "title": "Проект ТВОРИТЕЛИ завершен",
     "domain": "https://tvoriteli-off-0af20.netlify.app",
     "footer": {
-        "has_primary_nav": true,
-        "primary_nav_title": "ронный адрес:",
+        "has_primary_nav": false,
         "primary_nav_links": [],
         "has_secondary_nav": false,
         "secondary_nav_links": [],
