@@ -74,7 +74,7 @@ sections:
           vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
           semper.
         content_align: left
-    grid_cols: three
+    grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: small
     enable_cards: false
