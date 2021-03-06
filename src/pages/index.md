@@ -32,9 +32,6 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        title: >-
-          Для всех пользователей программы "ТВОРИТЕЛИ" переход и использование
-          новой версии
       - title: lorem-ipsum
         content: |2
            БЕСПЛАТНЫ.
