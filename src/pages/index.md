@@ -54,7 +54,8 @@ sections:
           программу «INNEIRO», обратитесь к тому, у кого вы купили программу
 
           «ТВОРИТЕЛИ». Если вы не имеете такой возможности, напишите нам на
-          электронный адрес: 
+          электронный адрес:
+          [perfecterra2021@gmail.com](https://preview--tvoriteli-off-0af20.stackbit.dev/perfecterra2021@gmail.com)
 
         content_align: left
     grid_cols: two
