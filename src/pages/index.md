@@ -38,7 +38,7 @@ sections:
         video_embed_html: >-
           Для всех пользователей программы "ТВОРИТЕЛИ" переход и использование
           новой версии
-        media_position: bottom
+        media_position: top
         media_width: fifty
         align: left
         type: feature
