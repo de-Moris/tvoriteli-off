@@ -40,7 +40,7 @@ sections:
           новой версии
         media_position: top
         media_width: thirty-three
-        align: left
+        align: center
         type: feature
     feature_padding_vert: small
     align: center
