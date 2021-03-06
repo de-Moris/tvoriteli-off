@@ -62,14 +62,12 @@ sections:
         content_align: left
       - title: Как перейти на новую платформу?
         title_align: left
-        content: >+
-          Для того, чтобы воспользоваться этой возможностью и перейти на
+        content: >
+          ##### Для того, чтобы воспользоваться этой возможностью и перейти на
           программу «INNEIRO», обратитесь к тому, у кого вы купили программу
-
           «ТВОРИТЕЛИ». Если вы не имеете такой возможности, напишите нам на
           электронный адрес:
-          [perfecterra2021@gmail.com](https://preview--tvoriteli-off-0af20.stackbit.dev/perfecterra2021@gmail.com)
-
+          [**perfecterra2021@gmail.com**](https://preview--tvoriteli-off-0af20.stackbit.dev/perfecterra2021@gmail.com)
         content_align: left
     grid_cols: two
     grid_gap_horiz: medium
