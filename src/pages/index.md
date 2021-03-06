@@ -36,8 +36,8 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
-          Для всех пользователей программы "ТВОРИТЕЛИ" переход и использование
-          новой версии
+          Для пользователей программы "ТВОРИТЕЛИ" переход и использование новой
+          версии
         media_position: top
         media_width: fifty
         align: center
