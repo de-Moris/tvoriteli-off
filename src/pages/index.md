@@ -81,9 +81,6 @@ sections:
     background_image_size: cover
     background_image_opacity: 15
     background_image_position: center center
-    title: >-
-      Для всех пользователей программы "ТВОРИТЕЛИ" переход и использование новой
-      версии БЕСПЛАТНЫ.
 seo:
   title: Tvoriteli
   description: This phase of the programme is being completed
