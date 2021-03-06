@@ -43,7 +43,7 @@ sections:
         align: center
         type: feature
     feature_padding_vert: small
-    align: right
+    align: center
     padding_top: small
     padding_bottom: medium
     background_color: none
