@@ -33,8 +33,6 @@ sections:
             no_follow: false
             type: action
       - title: БЕСПЛАТНЫ.
-        content: |2
-           БЕСПЛАТНЫ.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
