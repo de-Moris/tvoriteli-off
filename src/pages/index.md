@@ -32,7 +32,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-    feature_padding_vert: medium
+    feature_padding_vert: large
     align: center
     padding_top: medium
     padding_bottom: medium
