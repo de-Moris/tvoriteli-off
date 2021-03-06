@@ -32,7 +32,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: lorem-ipsum
+      - title: БЕСПЛАТНЫ.
         content: |2
            БЕСПЛАТНЫ.
         actions: []
