@@ -6,7 +6,7 @@ sections:
       **10 марта, 2021**
     actions: []
     align: center
-    padding_top: large
+    padding_top: small
     padding_bottom: large
     background_color: none
     background_image: images/fierce-avocado.jpg
