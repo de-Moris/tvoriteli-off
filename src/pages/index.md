@@ -39,7 +39,7 @@ sections:
           Для всех пользователей программы "ТВОРИТЕЛИ" переход и использование
           новой версии
         media_position: top
-        media_width: fourty
+        media_width: thirty-three
         align: left
         type: feature
     feature_padding_vert: small
