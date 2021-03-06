@@ -32,9 +32,6 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        title: >-
-          Для всех пользователей программы "ТВОРИТЕЛИ" переход и использование
-          новой версии БЕСПЛАТНЫ.
     feature_padding_vert: small
     align: center
     padding_top: medium
