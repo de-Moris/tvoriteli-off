@@ -34,9 +34,8 @@ sections:
             type: action
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >
-          Для всех пользователей программы "ТВОРИТЕЛИ" переход и использование
-          новой версии БЕСПЛАТНЫ.
+        content: |2
+           БЕСПЛАТНЫ.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
