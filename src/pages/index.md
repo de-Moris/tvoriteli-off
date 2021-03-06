@@ -82,6 +82,16 @@ sections:
     background_image_opacity: 15
     background_image_position: center center
     subtitle: остались вопросы?
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
 seo:
   title: Tvoriteli
   description: This phase of the programme is being completed
