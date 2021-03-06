@@ -74,7 +74,7 @@ sections:
     enable_cards: false
     align: center
     padding_top: small
-    padding_bottom: large
+    padding_bottom: small
     background_color: none
     background_image: images/bg-machine.jpg
     background_image_repeat: no-repeat
