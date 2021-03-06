@@ -83,7 +83,6 @@ sections:
     background_image_position: center center
     subtitle: остались вопросы?
     actions: []
-    title: остались вопросы?
 seo:
   title: Tvoriteli
   description: This phase of the programme is being completed
