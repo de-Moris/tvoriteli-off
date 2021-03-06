@@ -33,14 +33,13 @@ sections:
             no_follow: false
             type: action
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         content: |2
            БЕСПЛАТНЫ.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Для всех пользователей программы "ТВОРИТЕЛИ" переход и использование
+          новой версии
         media_position: top
         media_width: fifty
         align: left
