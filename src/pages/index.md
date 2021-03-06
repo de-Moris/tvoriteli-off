@@ -38,7 +38,6 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: grid_section
-    subtitle: остались вопросы?
     grid_items:
       - title: Что дальше?
         title_align: left
