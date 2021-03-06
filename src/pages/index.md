@@ -34,7 +34,7 @@ sections:
             type: action
       - title: БЕСПЛАТНЫ.
         actions:
-          - label: lorem-ipsum
+          - label: БЕСПЛАТНЫ.
             url: '#'
             style: link
             has_icon: false
