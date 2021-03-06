@@ -45,7 +45,7 @@ sections:
     feature_padding_vert: small
     align: center
     padding_top: small
-    padding_bottom: medium
+    padding_bottom: small
     background_color: none
   - type: grid_section
     grid_items:
