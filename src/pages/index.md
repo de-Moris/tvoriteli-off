@@ -47,6 +47,7 @@ sections:
     padding_top: small
     padding_bottom: small
     background_color: none
+    background_image_size: contain
   - type: grid_section
     grid_items:
       - title: Что дальше?
