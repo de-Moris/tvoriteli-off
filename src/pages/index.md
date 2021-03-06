@@ -42,7 +42,7 @@ sections:
         media_width: fifty
         align: center
         type: feature
-    feature_padding_vert: small
+    feature_padding_vert: large
     align: center
     padding_top: none
     padding_bottom: medium
