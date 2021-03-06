@@ -73,7 +73,7 @@ sections:
     grid_gap_vert: medium
     enable_cards: false
     align: center
-    padding_top: large
+    padding_top: small
     padding_bottom: large
     background_color: none
     background_image: images/bg-machine.jpg
