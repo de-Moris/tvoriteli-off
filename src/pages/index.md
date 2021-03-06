@@ -44,7 +44,7 @@ sections:
         type: feature
     feature_padding_vert: small
     align: center
-    padding_top: medium
+    padding_top: small
     padding_bottom: medium
     background_color: none
   - type: grid_section
