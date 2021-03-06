@@ -15,19 +15,7 @@
         "tertiary_nav_links": [],
         "has_social": false,
         "social_links": [],
-        "links": [
-            {
-                "label": "perfecterra2021@gmail.com",
-                "url": "perfecterra2021@gmail.com",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ],
+        "links": [],
         "type": "footer"
     }
 }
