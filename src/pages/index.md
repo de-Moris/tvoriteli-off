@@ -3,7 +3,7 @@ sections:
   - type: hero_section
     title: Проект завершен
     content: |
-      **10 марта, 2021**
+      ****
     actions: []
     align: center
     padding_top: small
