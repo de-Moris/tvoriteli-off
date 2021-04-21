@@ -12,7 +12,7 @@ sections:
     background_image: images/fierce-avocado.jpg
     background_image_opacity: 15
     background_image_size: cover
-    subtitle: полное отключение ресурсов проекта
+    subtitle: ресурсы проекта отключены
     has_border: false
   - type: features_section
     title: Уважаемые пользователи
